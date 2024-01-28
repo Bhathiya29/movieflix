@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+**This is a Movie App created using an API of a movie database**
+
+![React 1](https://github.com/Bhathiya29/movieflix/assets/86801890/2fee392e-43dc-421c-9625-d62dd6655def)
+
+![React2](https://github.com/Bhathiya29/movieflix/assets/86801890/c440dfdb-f684-4676-abc5-bfb6934f9494)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
